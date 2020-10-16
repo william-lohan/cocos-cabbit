@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0c2b2753-c801-4ea2-8df4-68e5d4365918",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "townfolk-bearded_man-001-light": {
+      "ver": "1.0.4",
+      "uuid": "d5e6020a-f64e-4063-89aa-3b02f91012c5",
+      "rawTextureUuid": "0c2b2753-c801-4ea2-8df4-68e5d4365918",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5,
+      "trimX": 4,
+      "trimY": 10,
+      "width": 136,
+      "height": 246,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

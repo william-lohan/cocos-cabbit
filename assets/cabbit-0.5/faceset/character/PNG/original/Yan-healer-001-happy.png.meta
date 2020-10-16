@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5fad0d91-7c11-4e9e-b655-0e7b683152bb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "Yan-healer-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "1d4f5e94-80fc-49f2-8fa1-c5a4a0671389",
+      "rawTextureUuid": "5fad0d91-7c11-4e9e-b655-0e7b683152bb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 95,
+      "rawWidth": 79,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

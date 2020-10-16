@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d05568ea-0033-4b53-995a-1b8ee28b3e8f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Santa-002-light": {
+      "ver": "1.0.4",
+      "uuid": "0ccbf149-d461-43d8-89a2-ced9725c2b6e",
+      "rawTextureUuid": "d05568ea-0033-4b53-995a-1b8ee28b3e8f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 4,
+      "trimY": 6,
+      "width": 136,
+      "height": 250,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

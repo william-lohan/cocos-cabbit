@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "90c7e3b1-f9b9-480d-bc27-1fab6dd73e4d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-helm-001-like": {
+      "ver": "1.0.4",
+      "uuid": "dbde9074-81d9-41c1-88df-cd2519dfd70c",
+      "rawTextureUuid": "90c7e3b1-f9b9-480d-bc27-1fab6dd73e4d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 92,
+      "rawWidth": 81,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

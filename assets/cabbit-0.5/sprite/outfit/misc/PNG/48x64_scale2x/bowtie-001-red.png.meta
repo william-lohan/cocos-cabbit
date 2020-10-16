@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2ed95672-ae19-41a9-a4ca-698b69fdfe96",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "bowtie-001-red": {
+      "ver": "1.0.4",
+      "uuid": "6ee37ef8-857d-4469-8280-820ee581068b",
+      "rawTextureUuid": "2ed95672-ae19-41a9-a4ca-698b69fdfe96",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -35,
+      "trimX": 14,
+      "trimY": 94,
+      "width": 116,
+      "height": 138,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

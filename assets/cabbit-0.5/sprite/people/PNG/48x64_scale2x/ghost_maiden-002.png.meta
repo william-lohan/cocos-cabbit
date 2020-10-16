@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0dd185a4-9229-4bac-985f-d562724c7642",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "ghost_maiden-002": {
+      "ver": "1.0.4",
+      "uuid": "82561a14-26f3-4cd6-a4d4-2b7834660ef0",
+      "rawTextureUuid": "0dd185a4-9229-4bac-985f-d562724c7642",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5,
+      "trimX": 10,
+      "trimY": 10,
+      "width": 124,
+      "height": 246,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

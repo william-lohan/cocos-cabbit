@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "71aed43e-5fe0-4785-be42-eee671537b41",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 71,
+  "height": 93,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-ranger-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "c818b98d-ec75-46eb-9dfb-201943b897ef",
+      "rawTextureUuid": "71aed43e-5fe0-4785-be42-eee671537b41",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 93,
+      "rawWidth": 71,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

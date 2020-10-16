@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "19c5a280-70c7-471f-9eea-6b18d53a4180",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "Timophey-ranger-001-smirk": {
+      "ver": "1.0.4",
+      "uuid": "cca43743-ce95-4de3-ba73-ca4c768ed541",
+      "rawTextureUuid": "19c5a280-70c7-471f-9eea-6b18d53a4180",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 91,
+      "rawWidth": 77,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

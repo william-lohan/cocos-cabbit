@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7e8ab434-9b33-44e6-838b-4b9dc6cf380d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 71,
+  "height": 93,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-ranger-001-dislike": {
+      "ver": "1.0.4",
+      "uuid": "6ac8e9f1-3c8a-4648-8fd8-13171e701258",
+      "rawTextureUuid": "7e8ab434-9b33-44e6-838b-4b9dc6cf380d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 93,
+      "rawWidth": 71,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

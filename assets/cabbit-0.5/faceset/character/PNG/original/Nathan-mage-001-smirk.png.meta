@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c64fdad5-77ca-45ea-86cd-abe8eb07838b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 83,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "Nathan-mage-001-smirk": {
+      "ver": "1.0.4",
+      "uuid": "4d8f149b-e21c-4c5a-9abe-1e3cf3bfa41a",
+      "rawTextureUuid": "c64fdad5-77ca-45ea-86cd-abe8eb07838b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 83,
+      "height": 99,
+      "rawWidth": 83,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

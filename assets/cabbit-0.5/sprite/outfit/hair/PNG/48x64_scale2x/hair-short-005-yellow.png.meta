@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "808cc947-d30c-419c-b3db-7924cb370f8b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "hair-short-005-yellow": {
+      "ver": "1.0.4",
+      "uuid": "5d12fb1c-ace8-438c-88fb-3533dcfbf686",
+      "rawTextureUuid": "808cc947-d30c-419c-b3db-7924cb370f8b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 10,
+      "trimX": 12,
+      "trimY": 10,
+      "width": 120,
+      "height": 216,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2d13c9cc-c483-4048-8105-eb3bb1cd61a8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "tuxedo-001-black": {
+      "ver": "1.0.4",
+      "uuid": "58b57c2d-b4cd-46a3-a864-16e8ae8b1478",
+      "rawTextureUuid": "2d13c9cc-c483-4048-8105-eb3bb1cd61a8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8,
+      "trimX": 6,
+      "trimY": 16,
+      "width": 60,
+      "height": 112,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

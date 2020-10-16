@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "668daa48-d54d-47ad-b335-642986123f45",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "necktie-001-red": {
+      "ver": "1.0.4",
+      "uuid": "4db5e732-f938-45b5-ac28-069b0b995731",
+      "rawTextureUuid": "668daa48-d54d-47ad-b335-642986123f45",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -40,
+      "trimX": 16,
+      "trimY": 96,
+      "width": 112,
+      "height": 144,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

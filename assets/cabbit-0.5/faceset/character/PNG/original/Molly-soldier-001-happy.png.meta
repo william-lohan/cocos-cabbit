@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5190ed22-0db2-4e05-8f59-4315f5cea156",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "4aca99fe-3057-402b-92bc-1bed315be2dd",
+      "rawTextureUuid": "5190ed22-0db2-4e05-8f59-4315f5cea156",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 89,
+      "rawWidth": 81,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

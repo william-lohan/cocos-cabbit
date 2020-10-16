@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "203714a1-164f-4aed-966c-f42b48b3b25a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "hair-short-010-maroon": {
+      "ver": "1.0.4",
+      "uuid": "189f1632-504d-4faa-801d-e6c33a6efd13",
+      "rawTextureUuid": "203714a1-164f-4aed-966c-f42b48b3b25a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 5,
+      "trimX": 6,
+      "trimY": 5,
+      "width": 60,
+      "height": 108,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

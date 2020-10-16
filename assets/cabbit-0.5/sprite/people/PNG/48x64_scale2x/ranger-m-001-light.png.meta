@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f37fde82-a59c-4468-bf34-95b6cf7fa408",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "ranger-m-001-light": {
+      "ver": "1.0.4",
+      "uuid": "0c949901-e028-4e85-bc4b-ddd24aa11efc",
+      "rawTextureUuid": "f37fde82-a59c-4468-bf34-95b6cf7fa408",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -4,
+      "trimX": 10,
+      "trimY": 8,
+      "width": 124,
+      "height": 248,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

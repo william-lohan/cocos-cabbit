@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cd37db21-cfce-45af-afbf-b5679a60da30",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 94,
+  "platformSettings": {},
+  "subMetas": {
+    "Evan-healer-001-smirk": {
+      "ver": "1.0.4",
+      "uuid": "c3c59c31-1b8e-4aa0-94f4-92c48e4a516c",
+      "rawTextureUuid": "cd37db21-cfce-45af-afbf-b5679a60da30",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 94,
+      "rawWidth": 77,
+      "rawHeight": 94,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

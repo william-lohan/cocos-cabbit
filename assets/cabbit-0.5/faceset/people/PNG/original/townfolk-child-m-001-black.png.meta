@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "506a047e-5b16-4559-94ce-20d347e1f412",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "townfolk-child-m-001-black": {
+      "ver": "1.0.4",
+      "uuid": "d0f04a35-50b4-4c7f-801e-d246c77b4b7f",
+      "rawTextureUuid": "506a047e-5b16-4559-94ce-20d347e1f412",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -3.5,
+      "trimX": 9,
+      "trimY": 7,
+      "width": 38,
+      "height": 57,
+      "rawWidth": 54,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

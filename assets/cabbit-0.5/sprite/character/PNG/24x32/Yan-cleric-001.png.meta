@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "667024e7-7bc6-48b3-a323-2f51ea1b23ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "Yan-cleric-001": {
+      "ver": "1.0.4",
+      "uuid": "9a498b78-571d-4c84-b3f9-3fc227f23ed7",
+      "rawTextureUuid": "667024e7-7bc6-48b3-a323-2f51ea1b23ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 5,
+      "trimY": 3,
+      "width": 62,
+      "height": 125,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

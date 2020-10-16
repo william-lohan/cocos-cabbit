@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b11b6747-3a67-433d-9ad4-a66141168407",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Roland-soldier-helm-001-smirk": {
+      "ver": "1.0.4",
+      "uuid": "67b84134-8f3b-4f89-964a-31b7f6238336",
+      "rawTextureUuid": "b11b6747-3a67-433d-9ad4-a66141168407",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 92,
+      "rawWidth": 89,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

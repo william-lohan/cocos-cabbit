@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3e2c34a3-f221-43cd-a46d-12800b6c8d5d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "bard-m-001-alt-light": {
+      "ver": "1.0.4",
+      "uuid": "02603520-47e7-42ad-a1be-5f3af3827e3f",
+      "rawTextureUuid": "3e2c34a3-f221-43cd-a46d-12800b6c8d5d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 8,
+      "trimY": 2,
+      "width": 42,
+      "height": 67,
+      "rawWidth": 58,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

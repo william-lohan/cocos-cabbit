@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "c09be8e7-8d61-4f2f-9356-dba269f1c461",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-helm-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "f0ff180f-a78e-4562-b14b-85bc49cd5c69",
+      "rawTextureUuid": "c09be8e7-8d61-4f2f-9356-dba269f1c461",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 92,
+      "rawWidth": 81,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

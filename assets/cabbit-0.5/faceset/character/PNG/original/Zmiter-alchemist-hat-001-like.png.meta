@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f92a1a28-491a-42b4-bc67-c665c0ddcaf5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "Zmiter-alchemist-hat-001-like": {
+      "ver": "1.0.4",
+      "uuid": "80bd6630-16c5-4e1f-a933-c792244f5e9d",
+      "rawTextureUuid": "f92a1a28-491a-42b4-bc67-c665c0ddcaf5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 90,
+      "rawWidth": 81,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

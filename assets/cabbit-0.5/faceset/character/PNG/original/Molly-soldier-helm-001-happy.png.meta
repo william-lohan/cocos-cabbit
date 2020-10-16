@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ce290079-98b3-4aae-bb11-34267348667f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-helm-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "8e43f4a9-67d8-4149-b593-c5165b6004c5",
+      "rawTextureUuid": "ce290079-98b3-4aae-bb11-34267348667f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 92,
+      "rawWidth": 81,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

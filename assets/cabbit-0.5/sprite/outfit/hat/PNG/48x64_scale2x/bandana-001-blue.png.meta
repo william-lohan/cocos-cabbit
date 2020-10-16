@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a75f1023-fcae-4fc5-afcd-8f137f142d1a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "bandana-001-blue": {
+      "ver": "1.0.4",
+      "uuid": "a60256eb-e9e6-4f9f-92d0-a9b662bc0d26",
+      "rawTextureUuid": "a75f1023-fcae-4fc5-afcd-8f137f142d1a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 10,
+      "trimX": 4,
+      "trimY": 10,
+      "width": 136,
+      "height": 216,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

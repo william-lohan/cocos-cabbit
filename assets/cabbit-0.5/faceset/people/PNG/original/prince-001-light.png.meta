@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9dc512bc-0256-4f96-921f-705155efa7ce",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 102,
+  "platformSettings": {},
+  "subMetas": {
+    "prince-001-light": {
+      "ver": "1.0.4",
+      "uuid": "c8c50563-2842-423e-9518-c1a065ee229a",
+      "rawTextureUuid": "9dc512bc-0256-4f96-921f-705155efa7ce",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 1,
+      "trimY": 6,
+      "width": 77,
+      "height": 96,
+      "rawWidth": 79,
+      "rawHeight": 102,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

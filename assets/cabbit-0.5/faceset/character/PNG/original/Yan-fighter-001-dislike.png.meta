@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6a4ff71b-2559-46db-8ee8-b34f50949d26",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 93,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Yan-fighter-001-dislike": {
+      "ver": "1.0.4",
+      "uuid": "0d4533ee-88e7-440c-88b5-bf6ef98335fe",
+      "rawTextureUuid": "6a4ff71b-2559-46db-8ee8-b34f50949d26",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 93,
+      "height": 89,
+      "rawWidth": 93,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e458a812-b8d7-483d-b88c-281c355fdb68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-mage-001-wink": {
+      "ver": "1.0.4",
+      "uuid": "f8f54440-5a4d-4809-826d-f54fd4e865e5",
+      "rawTextureUuid": "e458a812-b8d7-483d-b88c-281c355fdb68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 95,
+      "rawWidth": 75,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

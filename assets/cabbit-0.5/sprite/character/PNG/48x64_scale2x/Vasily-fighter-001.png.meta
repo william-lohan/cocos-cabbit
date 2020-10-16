@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a431a899-be78-4947-97e3-5c4bc665e974",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Vasily-fighter-001": {
+      "ver": "1.0.4",
+      "uuid": "722269b7-d789-4ecd-8a4f-41da2d0db3f1",
+      "rawTextureUuid": "a431a899-be78-4947-97e3-5c4bc665e974",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 10,
+      "trimY": 12,
+      "width": 124,
+      "height": 244,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

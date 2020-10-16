@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "49c84246-709f-44a9-9a41-0e6f2487dcd4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Roland-soldier-helm-001-angry": {
+      "ver": "1.0.4",
+      "uuid": "6d272f94-47dd-4122-8210-f4b244d7ddbc",
+      "rawTextureUuid": "49c84246-709f-44a9-9a41-0e6f2487dcd4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 92,
+      "rawWidth": 89,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

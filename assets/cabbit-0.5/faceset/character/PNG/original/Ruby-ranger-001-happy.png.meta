@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "38d406a9-3c12-4d53-98ae-fc88ad6587ef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 73,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Ruby-ranger-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "d160491a-7a0a-44c3-9489-350861d5ec34",
+      "rawTextureUuid": "38d406a9-3c12-4d53-98ae-fc88ad6587ef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 73,
+      "height": 89,
+      "rawWidth": 73,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

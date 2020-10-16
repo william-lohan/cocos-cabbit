@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4d6c2aaf-6360-43af-9f75-6e8ef8995037",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 71,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-cleric-001-like": {
+      "ver": "1.0.4",
+      "uuid": "35561459-37dc-405e-b498-cc52eaec20bd",
+      "rawTextureUuid": "4d6c2aaf-6360-43af-9f75-6e8ef8995037",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 71,
+      "height": 91,
+      "rawWidth": 71,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

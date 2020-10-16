@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "239750be-9867-4477-a3e7-c73cff0dccfe",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 87,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Helena-fighter-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "af499e3e-12ba-487e-8fdd-38e43af0988a",
+      "rawTextureUuid": "239750be-9867-4477-a3e7-c73cff0dccfe",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 89,
+      "rawWidth": 87,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

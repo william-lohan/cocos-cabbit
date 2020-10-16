@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6e6ee2b1-2b53-4922-b2cc-8c67d677a10f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Evan-cleric-001": {
+      "ver": "1.0.4",
+      "uuid": "565d1961-792a-4e02-85ef-c83fb481bdf1",
+      "rawTextureUuid": "6e6ee2b1-2b53-4922-b2cc-8c67d677a10f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 12,
+      "trimY": 6,
+      "width": 120,
+      "height": 250,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

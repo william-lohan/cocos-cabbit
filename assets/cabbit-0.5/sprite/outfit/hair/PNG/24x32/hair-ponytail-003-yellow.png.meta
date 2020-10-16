@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "2df8b63d-b1dd-4df3-b484-2693343866d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "hair-ponytail-003-yellow": {
+      "ver": "1.0.4",
+      "uuid": "9e901bf0-90b3-4e42-abd2-e28d6e81f786",
+      "rawTextureUuid": "2df8b63d-b1dd-4df3-b484-2693343866d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2.5,
+      "trimX": 4,
+      "trimY": 5,
+      "width": 63,
+      "height": 113,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

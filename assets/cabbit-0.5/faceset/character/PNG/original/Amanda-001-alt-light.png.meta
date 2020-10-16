@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ab4adab9-b6f4-4003-bc71-a787864d76d5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 56,
+  "height": 63,
+  "platformSettings": {},
+  "subMetas": {
+    "Amanda-001-alt-light": {
+      "ver": "1.0.4",
+      "uuid": "28a361bc-bd8c-4d69-86b6-5d0473c9716c",
+      "rawTextureUuid": "ab4adab9-b6f4-4003-bc71-a787864d76d5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 56,
+      "height": 63,
+      "rawWidth": 56,
+      "rawHeight": 63,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bb1da7fb-31ef-4c1b-9f64-62fe25dcea94",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 60,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "healer-f-001-light": {
+      "ver": "1.0.4",
+      "uuid": "ebb97b70-7f56-478a-9925-f949b6dd403a",
+      "rawTextureUuid": "bb1da7fb-31ef-4c1b-9f64-62fe25dcea94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 56,
+      "height": 68,
+      "rawWidth": 60,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

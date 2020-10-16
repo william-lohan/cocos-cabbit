@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "9d509f07-0259-4615-bc3c-3fb46e63fbd6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "outfit-cleric-m-001": {
+      "ver": "1.0.4",
+      "uuid": "a5681c1d-9415-4b54-b3a9-a2aab033ab19",
+      "rawTextureUuid": "9d509f07-0259-4615-bc3c-3fb46e63fbd6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -16,
+      "trimX": 12,
+      "trimY": 32,
+      "width": 120,
+      "height": 224,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

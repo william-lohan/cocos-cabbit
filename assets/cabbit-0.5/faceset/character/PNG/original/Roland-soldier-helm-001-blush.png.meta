@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "d381bc9b-d127-4334-a1bb-3bc6f8745f4f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 89,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Roland-soldier-helm-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "f41805c7-d883-4d54-9770-75119bb19121",
+      "rawTextureUuid": "d381bc9b-d127-4334-a1bb-3bc6f8745f4f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 89,
+      "height": 92,
+      "rawWidth": 89,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

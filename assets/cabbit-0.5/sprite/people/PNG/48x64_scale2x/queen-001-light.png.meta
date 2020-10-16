@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "cab40a72-7335-4552-8b35-83e5901514b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "queen-001-light": {
+      "ver": "1.0.4",
+      "uuid": "8451a331-9ddc-4121-aeed-43c2fdb08e24",
+      "rawTextureUuid": "cab40a72-7335-4552-8b35-83e5901514b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -4,
+      "trimX": 6,
+      "trimY": 8,
+      "width": 132,
+      "height": 248,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

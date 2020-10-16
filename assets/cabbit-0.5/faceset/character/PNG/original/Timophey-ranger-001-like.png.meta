@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "69829a12-462c-44d9-8031-0b88054ca438",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "Timophey-ranger-001-like": {
+      "ver": "1.0.4",
+      "uuid": "5fb189d0-fb30-4c89-9ee0-83da9586cf77",
+      "rawTextureUuid": "69829a12-462c-44d9-8031-0b88054ca438",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 91,
+      "rawWidth": 77,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

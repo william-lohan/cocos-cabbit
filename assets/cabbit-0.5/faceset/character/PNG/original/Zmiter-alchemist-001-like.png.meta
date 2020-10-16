@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fe5b3919-4252-4bba-a2de-ff685c3c6d29",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 88,
+  "platformSettings": {},
+  "subMetas": {
+    "Zmiter-alchemist-001-like": {
+      "ver": "1.0.4",
+      "uuid": "19432744-61a4-4a9e-9692-b53c00403a5e",
+      "rawTextureUuid": "fe5b3919-4252-4bba-a2de-ff685c3c6d29",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 88,
+      "rawWidth": 81,
+      "rawHeight": 88,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

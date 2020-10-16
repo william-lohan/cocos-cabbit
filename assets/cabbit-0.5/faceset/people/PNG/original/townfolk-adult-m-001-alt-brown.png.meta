@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6720a0d0-93be-44b8-afbe-ee0dc27bc5dd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "townfolk-adult-m-001-alt-brown": {
+      "ver": "1.0.4",
+      "uuid": "68a77b60-0479-4ac7-89e0-0d6d2798c4ce",
+      "rawTextureUuid": "6720a0d0-93be-44b8-afbe-ee0dc27bc5dd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 52,
+      "height": 63,
+      "rawWidth": 54,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

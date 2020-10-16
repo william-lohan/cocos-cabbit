@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1177b44d-1958-4d83-942b-31fa0870fe50",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Nathan-mage-001": {
+      "ver": "1.0.4",
+      "uuid": "23701986-ddbb-40b3-8167-07c05205afc3",
+      "rawTextureUuid": "1177b44d-1958-4d83-942b-31fa0870fe50",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 10,
+      "trimY": 6,
+      "width": 124,
+      "height": 250,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

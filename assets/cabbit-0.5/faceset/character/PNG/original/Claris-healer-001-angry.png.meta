@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8677d8c7-60e6-41d7-b5e7-7f4eea8e2244",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 86,
+  "height": 100,
+  "platformSettings": {},
+  "subMetas": {
+    "Claris-healer-001-angry": {
+      "ver": "1.0.4",
+      "uuid": "b4fc5e6d-6d3b-4946-a80b-13207f1334a0",
+      "rawTextureUuid": "8677d8c7-60e6-41d7-b5e7-7f4eea8e2244",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 86,
+      "height": 100,
+      "rawWidth": 86,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

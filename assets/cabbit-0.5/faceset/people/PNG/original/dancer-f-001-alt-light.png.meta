@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "42a4c85f-3807-4649-94e4-66454f077737",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 61,
+  "height": 65,
+  "platformSettings": {},
+  "subMetas": {
+    "dancer-f-001-alt-light": {
+      "ver": "1.0.4",
+      "uuid": "60fe3f5d-d1bc-410b-8d65-9152e6453439",
+      "rawTextureUuid": "42a4c85f-3807-4649-94e4-66454f077737",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 56,
+      "height": 62,
+      "rawWidth": 61,
+      "rawHeight": 65,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5e430979-acd0-4230-a052-760a0f3d7bf8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 85,
+  "height": 93,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-soldier-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "fcd82ee5-d781-4b60-a641-b5f38a05dcdc",
+      "rawTextureUuid": "5e430979-acd0-4230-a052-760a0f3d7bf8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 85,
+      "height": 93,
+      "rawWidth": 85,
+      "rawHeight": 93,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

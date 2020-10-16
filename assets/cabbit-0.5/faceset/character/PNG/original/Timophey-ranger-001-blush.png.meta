@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "52abbd2a-92f9-46bb-918c-ae9e3b2d16f1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 91,
+  "platformSettings": {},
+  "subMetas": {
+    "Timophey-ranger-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "8f2015b6-8540-458e-abce-9a000efb2d82",
+      "rawTextureUuid": "52abbd2a-92f9-46bb-918c-ae9e3b2d16f1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 91,
+      "rawWidth": 77,
+      "rawHeight": 91,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

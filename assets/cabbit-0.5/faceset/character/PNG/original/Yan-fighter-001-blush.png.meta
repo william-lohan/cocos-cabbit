@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8f59548c-7854-4860-bf72-074cbd128a06",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 93,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Yan-fighter-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "cc68c417-b81f-4e08-91c8-01071524d612",
+      "rawTextureUuid": "8f59548c-7854-4860-bf72-074cbd128a06",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 93,
+      "height": 89,
+      "rawWidth": 93,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

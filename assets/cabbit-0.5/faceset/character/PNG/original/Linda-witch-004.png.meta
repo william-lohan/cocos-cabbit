@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "f21223f5-85fc-47eb-bda8-47b564012cfb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 91,
+  "height": 114,
+  "platformSettings": {},
+  "subMetas": {
+    "Linda-witch-004": {
+      "ver": "1.0.4",
+      "uuid": "b5035c73-c326-4106-b003-3a676bb5f03b",
+      "rawTextureUuid": "f21223f5-85fc-47eb-bda8-47b564012cfb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 91,
+      "height": 114,
+      "rawWidth": 91,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e0854030-8571-467c-b6bb-34c21884b006",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "t-shirt-001-gray": {
+      "ver": "1.0.4",
+      "uuid": "3d91a73f-2d45-40ae-832d-5bce8e3920df",
+      "rawTextureUuid": "e0854030-8571-467c-b6bb-34c21884b006",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8,
+      "trimX": 12,
+      "trimY": 32,
+      "width": 120,
+      "height": 208,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

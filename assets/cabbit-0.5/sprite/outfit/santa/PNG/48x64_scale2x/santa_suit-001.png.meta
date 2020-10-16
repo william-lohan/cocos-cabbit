@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86104436-3fcf-4855-9789-d78105078fee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "santa_suit-001": {
+      "ver": "1.0.4",
+      "uuid": "7cdc7fb1-1254-48ca-9bf0-e164c2f3cdb5",
+      "rawTextureUuid": "86104436-3fcf-4855-9789-d78105078fee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -15,
+      "trimX": 8,
+      "trimY": 30,
+      "width": 128,
+      "height": 226,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

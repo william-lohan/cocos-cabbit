@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a58b9944-80ff-404d-adda-2efe3a74eac4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "vest-001-brown": {
+      "ver": "1.0.4",
+      "uuid": "6c724783-520e-4949-bf7e-84fc624db66b",
+      "rawTextureUuid": "a58b9944-80ff-404d-adda-2efe3a74eac4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8,
+      "trimX": 12,
+      "trimY": 32,
+      "width": 120,
+      "height": 208,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

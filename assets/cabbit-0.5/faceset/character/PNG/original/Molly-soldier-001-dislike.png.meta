@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0c8c0b3f-0ea9-44e3-9864-32679d10817b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-001-dislike": {
+      "ver": "1.0.4",
+      "uuid": "d65709d9-0c46-4345-9e2d-816b326e9126",
+      "rawTextureUuid": "0c8c0b3f-0ea9-44e3-9864-32679d10817b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 89,
+      "rawWidth": 81,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

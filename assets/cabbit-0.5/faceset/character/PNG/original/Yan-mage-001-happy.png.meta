@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e02e7173-b50d-4a99-9f2e-8337bd28d7e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 105,
+  "platformSettings": {},
+  "subMetas": {
+    "Yan-mage-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "911cf0a2-5a96-4149-aa6b-ecffe55085a5",
+      "rawTextureUuid": "e02e7173-b50d-4a99-9f2e-8337bd28d7e7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 105,
+      "rawWidth": 81,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "30cbdf61-d0f5-427e-be6d-5b161c7868cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 54,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "townfolk-child-m-001-alt-light": {
+      "ver": "1.0.4",
+      "uuid": "76ad9e5b-0ac8-4b01-b3d6-f0ce1b21cfdf",
+      "rawTextureUuid": "30cbdf61-d0f5-427e-be6d-5b161c7868cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -3,
+      "trimX": 8,
+      "trimY": 6,
+      "width": 39,
+      "height": 58,
+      "rawWidth": 54,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

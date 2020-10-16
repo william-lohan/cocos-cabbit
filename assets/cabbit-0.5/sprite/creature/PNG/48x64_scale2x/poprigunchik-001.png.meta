@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "a3a438e8-aea5-46fa-9e49-3953e1a6629b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "poprigunchik-001": {
+      "ver": "1.0.4",
+      "uuid": "9086b0a6-dcb1-4bad-b41e-4e911654bb01",
+      "rawTextureUuid": "a3a438e8-aea5-46fa-9e49-3953e1a6629b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -15,
+      "trimX": 14,
+      "trimY": 32,
+      "width": 114,
+      "height": 222,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

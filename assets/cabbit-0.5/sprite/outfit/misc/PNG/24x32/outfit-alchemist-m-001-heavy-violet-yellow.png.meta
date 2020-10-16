@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bdbf09f9-6a17-432a-b535-c56728c5c162",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "outfit-alchemist-m-001-heavy-violet-yellow": {
+      "ver": "1.0.4",
+      "uuid": "d9edeecb-0ff6-45bd-9e95-dfb2b31184c9",
+      "rawTextureUuid": "bdbf09f9-6a17-432a-b535-c56728c5c162",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 5,
+      "trimY": 4,
+      "width": 62,
+      "height": 124,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

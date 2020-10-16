@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "786196d0-0e63-4d79-ba85-b9c9f8e96a3a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "cultist-002-blue": {
+      "ver": "1.0.4",
+      "uuid": "3c85813f-522e-442c-92bf-4e566e5c439a",
+      "rawTextureUuid": "786196d0-0e63-4d79-ba85-b9c9f8e96a3a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 64,
+      "height": 125,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

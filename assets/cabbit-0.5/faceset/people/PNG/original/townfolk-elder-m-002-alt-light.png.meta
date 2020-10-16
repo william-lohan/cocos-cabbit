@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e6495000-8e3f-4606-9526-990b8d25b507",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 57,
+  "height": 69,
+  "platformSettings": {},
+  "subMetas": {
+    "townfolk-elder-m-002-alt-light": {
+      "ver": "1.0.4",
+      "uuid": "c869b97a-171c-46a8-81c4-c36ee2bf2fd9",
+      "rawTextureUuid": "e6495000-8e3f-4606-9526-990b8d25b507",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -3,
+      "trimX": 0,
+      "trimY": 6,
+      "width": 57,
+      "height": 63,
+      "rawWidth": 57,
+      "rawHeight": 69,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

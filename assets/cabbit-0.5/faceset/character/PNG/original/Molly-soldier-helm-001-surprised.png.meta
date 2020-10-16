@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4decbf50-4cfe-4d8a-83ae-a8ea3d5e1488",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 92,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-helm-001-surprised": {
+      "ver": "1.0.4",
+      "uuid": "018b63a5-f20b-4d33-902f-e55b1a5c2949",
+      "rawTextureUuid": "4decbf50-4cfe-4d8a-83ae-a8ea3d5e1488",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 92,
+      "rawWidth": 81,
+      "rawHeight": 92,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

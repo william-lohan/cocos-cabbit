@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "49e67ee2-3407-49bb-a52d-0f41368c936b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 77,
+  "height": 96,
+  "platformSettings": {},
+  "subMetas": {
+    "Angela-mage-001-happy": {
+      "ver": "1.0.4",
+      "uuid": "6a03c75e-d6f2-40aa-ab26-0f1075b5060c",
+      "rawTextureUuid": "49e67ee2-3407-49bb-a52d-0f41368c936b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 77,
+      "height": 96,
+      "rawWidth": 77,
+      "rawHeight": 96,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

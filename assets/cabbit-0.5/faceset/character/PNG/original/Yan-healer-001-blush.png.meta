@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e26bb8de-5016-4c2c-9300-95b053690e1d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 79,
+  "height": 95,
+  "platformSettings": {},
+  "subMetas": {
+    "Yan-healer-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "6ed6b91a-790b-479c-8dbc-73440b4c5756",
+      "rawTextureUuid": "e26bb8de-5016-4c2c-9300-95b053690e1d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 79,
+      "height": 95,
+      "rawWidth": 79,
+      "rawHeight": 95,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

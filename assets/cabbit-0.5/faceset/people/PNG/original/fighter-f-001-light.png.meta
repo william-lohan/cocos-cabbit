@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "86108c66-70f4-4f5b-83a1-343ae6107541",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 58,
+  "height": 66,
+  "platformSettings": {},
+  "subMetas": {
+    "fighter-f-001-light": {
+      "ver": "1.0.4",
+      "uuid": "33512909-dd08-4a7f-b390-96cc561099fe",
+      "rawTextureUuid": "86108c66-70f4-4f5b-83a1-343ae6107541",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -1.5,
+      "trimX": 8,
+      "trimY": 3,
+      "width": 43,
+      "height": 63,
+      "rawWidth": 58,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

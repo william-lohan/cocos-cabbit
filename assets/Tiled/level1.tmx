@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="cave.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzbEBABAMBdGfAjNgBsycTRkhRXRXvPbOJTkAAFAxqQY1y//31xxBkz//5P96zR10PvwBAP9d1EhYJw==
+  </data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzbERQEAURdH9GfLNUANq0ZCuUANqQA1G7Bub/B2J5AXm3ZkbH+cYY+w/9frw8gjyJ93rc/QC8tfgb9E7yD/0Vu/EfoL8RB4/FXsmGD8PfiH2EuRXwa/F3oD8O4+j6NOnT58+ffof/Qv52Bf8
+  </data>
+ </layer>
+ <layer id="3" name="Tile Layer 3" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENwCAQA8FrCqgBKCChBkj/X9yFI9iR9m05AgDO9KhXDdP+VEt9pn23pLIqpv2qmuqm/dv/AwCA/9lrHQVN
+  </data>
+ </layer>
+</map>

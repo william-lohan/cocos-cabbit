@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "62147f8c-d10d-40f7-a559-2b30c22d6160",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "hair-fro-001-black": {
+      "ver": "1.0.4",
+      "uuid": "6d025338-f332-43b5-bb63-1ed8fddfd2f6",
+      "rawTextureUuid": "62147f8c-d10d-40f7-a559-2b30c22d6160",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 6.5,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 64,
+      "height": 109,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

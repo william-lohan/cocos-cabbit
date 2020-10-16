@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "57feae82-46ce-4fdd-b486-c3d2080e28c0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "Claris-cleric-001": {
+      "ver": "1.0.4",
+      "uuid": "0b4ffd76-c0fc-44aa-873e-27d704711ce2",
+      "rawTextureUuid": "57feae82-46ce-4fdd-b486-c3d2080e28c0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1.5,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 64,
+      "height": 125,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

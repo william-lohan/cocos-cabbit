@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "07fadb12-9b7d-4389-b235-5dc934d1c4be",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Helena-fighter-001": {
+      "ver": "1.0.4",
+      "uuid": "1eb1d4b5-f687-4259-a3c6-c9272879785d",
+      "rawTextureUuid": "07fadb12-9b7d-4389-b235-5dc934d1c4be",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 10,
+      "trimY": 12,
+      "width": 124,
+      "height": 244,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

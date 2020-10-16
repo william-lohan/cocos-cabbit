@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "fcdf2f85-3579-49bc-b004-2b6bb2d25933",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "townfolk-mayor-m-001-black": {
+      "ver": "1.0.4",
+      "uuid": "e6b9534b-6f6e-41ae-a680-d25297997b16",
+      "rawTextureUuid": "fcdf2f85-3579-49bc-b004-2b6bb2d25933",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2.5,
+      "trimX": 4,
+      "trimY": 5,
+      "width": 64,
+      "height": 123,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

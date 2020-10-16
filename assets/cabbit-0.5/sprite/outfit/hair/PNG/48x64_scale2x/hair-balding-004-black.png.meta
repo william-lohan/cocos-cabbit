@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "926bf1a3-ae98-496a-8cc6-44091d7abe22",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "hair-balding-004-black": {
+      "ver": "1.0.4",
+      "uuid": "34fb1aea-823d-4e7e-af35-ab6848dc58f1",
+      "rawTextureUuid": "926bf1a3-ae98-496a-8cc6-44091d7abe22",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 12,
+      "trimX": 8,
+      "trimY": 12,
+      "width": 128,
+      "height": 208,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "e82197c7-1db1-4460-acee-c62e8d58f264",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 83,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "Nathan-mage-001-like": {
+      "ver": "1.0.4",
+      "uuid": "841bcd43-ca72-4889-b9dd-895bcc95a012",
+      "rawTextureUuid": "e82197c7-1db1-4460-acee-c62e8d58f264",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 83,
+      "height": 99,
+      "rawWidth": 83,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

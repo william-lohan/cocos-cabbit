@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "81a39e33-a9cb-4627-b4cd-6e61fd6b95f4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-fighter-001": {
+      "ver": "1.0.4",
+      "uuid": "74af5691-aff4-4aed-9e30-946228c2fdf2",
+      "rawTextureUuid": "81a39e33-a9cb-4627-b4cd-6e61fd6b95f4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -4,
+      "trimX": 10,
+      "trimY": 8,
+      "width": 124,
+      "height": 248,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

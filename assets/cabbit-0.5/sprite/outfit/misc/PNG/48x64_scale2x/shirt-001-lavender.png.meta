@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "bad4d3f5-b805-45dc-ab07-5d8adbf9f1f7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "shirt-001-lavender": {
+      "ver": "1.0.4",
+      "uuid": "3ee6d2c1-5d34-4869-8033-84652601952a",
+      "rawTextureUuid": "bad4d3f5-b805-45dc-ab07-5d8adbf9f1f7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -8,
+      "trimX": 12,
+      "trimY": 32,
+      "width": 120,
+      "height": 208,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

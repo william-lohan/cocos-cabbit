@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ad677595-4648-4bf4-a84c-888b2bb45a18",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 75,
+  "height": 87,
+  "platformSettings": {},
+  "subMetas": {
+    "Lyuba-001-dislike": {
+      "ver": "1.0.4",
+      "uuid": "7b6d4091-57cd-4cbc-83ff-bad6c0ec21b9",
+      "rawTextureUuid": "ad677595-4648-4bf4-a84c-888b2bb45a18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 75,
+      "height": 87,
+      "rawWidth": 75,
+      "rawHeight": 87,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

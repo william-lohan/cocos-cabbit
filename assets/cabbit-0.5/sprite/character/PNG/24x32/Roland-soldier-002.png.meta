@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "72448c65-988b-48e4-98fc-d700019455b5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 72,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "Roland-soldier-002": {
+      "ver": "1.0.4",
+      "uuid": "3d989469-8d75-4be3-be42-631b8c68ff50",
+      "rawTextureUuid": "72448c65-988b-48e4-98fc-d700019455b5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2,
+      "trimX": 5,
+      "trimY": 4,
+      "width": 62,
+      "height": 124,
+      "rawWidth": 72,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "878bc981-f18f-4c20-8b58-0dfc726341d3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 81,
+  "height": 89,
+  "platformSettings": {},
+  "subMetas": {
+    "Molly-soldier-001-blush": {
+      "ver": "1.0.4",
+      "uuid": "733ab01b-c88d-4c58-bd1e-cd677f8183a8",
+      "rawTextureUuid": "878bc981-f18f-4c20-8b58-0dfc726341d3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 81,
+      "height": 89,
+      "rawWidth": 81,
+      "rawHeight": 89,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

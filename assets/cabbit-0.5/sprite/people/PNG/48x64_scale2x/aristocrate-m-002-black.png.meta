@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ae9bdd3b-c198-463e-8a8d-45764161f706",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "aristocrate-m-002-black": {
+      "ver": "1.0.4",
+      "uuid": "c56c10a5-27a9-417a-afd9-9da964cc5500",
+      "rawTextureUuid": "ae9bdd3b-c198-463e-8a8d-45764161f706",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -5,
+      "trimX": 10,
+      "trimY": 10,
+      "width": 124,
+      "height": 246,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

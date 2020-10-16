@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5a1d9f85-56b0-4db7-bb1a-3d39d09d4086",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 144,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "hair-mohawk-001-pink": {
+      "ver": "1.0.4",
+      "uuid": "2c771908-6dbb-4caf-bb5c-e67e6cd56540",
+      "rawTextureUuid": "5a1d9f85-56b0-4db7-bb1a-3d39d09d4086",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 18,
+      "trimX": 10,
+      "trimY": 4,
+      "width": 124,
+      "height": 212,
+      "rawWidth": 144,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
