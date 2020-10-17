@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="3">
+ <tileset firstgid="1" source="cave.tsx"/>
+ <tileset firstgid="461" source="dev-tileset.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxbyMDAsHCI4/2MDAwHGIlXD1K7nxGVT6qd5OgZxcMTU5p+KE2/lGAA9PeifQ==
+  </data>
+ </layer>
+ <layer id="2" name="Tile Layer 2" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJy7wMDA8IRMfAGILwJxIyMET2VEsInB56H6pzKSh2H6yQXY9F+jUD+l9o/qH9UPAm+I1A/Kg3vIxCC9AL4eQec=
+  </data>
+ </layer>
+ <objectgroup id="3" name="Object Layer 1">
+  <object id="1" name="chest" x="64" y="64" width="16" height="16"/>
+  <object id="2" name="exit" x="96" y="224" width="16" height="16"/>
+ </objectgroup>
+ <layer id="4" name="collision" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJw7z8jAcH6YYGIBPr3EmkOOvbjMGNU/tPWTYwa10y+5GABEplIR
+  </data>
+ </layer>
+</map>

@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "cave.tsx",
+    "activeFile": "level1.tmx",
     "expandedProjectPaths": [
         "."
     ],
@@ -12,33 +12,50 @@
             "scaleInDock": 1,
             "scaleInEditor": 2
         },
+        "dev-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "level1.tmx": {
             "scale": 1.67734375,
-            "selectedLayer": 1,
+            "selectedLayer": 4,
             "viewCenter": {
-                "x": 244.43409408476947,
-                "y": 256.35770843036795
+                "x": 259.33861201676757,
+                "y": 253.3768048439683
+            }
+        },
+        "level1cave.tmx": {
+            "scale": 3.352941176470588,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 117.50877192982455,
+                "y": 127.94736842105264
             }
         }
     },
-    "map.height": 32,
+    "map.height": 16,
     "map.lastUsedFormat": "tmx",
     "map.layerDataFormat": null,
     "map.tileHeight": 16,
     "map.tileWidth": 16,
-    "map.width": 32,
+    "map.width": 16,
     "openFiles": [
         "cave.tsx",
-        "level1.tmx"
+        "level1.tmx",
+        "level1cave.tmx"
     ],
     "project": "Cabbit.tiled-project",
     "recentFiles": [
+        "cave.tsx",
+        "level1cave.tmx",
         "level1.tmx",
-        "cave.tsx"
+        "dev-tileset.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
         "height": 16,
         "width": 16
-    }
+    },
+    "tileset.transparentColor": "#c3c3c3",
+    "tileset.useTransparentColor": true
 }
