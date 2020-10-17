@@ -3,14 +3,14 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "level1.tmx",
+    "activeFile": "level1cave.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "fileStates": {
         "cave.tsx": {
             "scaleInDock": 1,
-            "scaleInEditor": 2
+            "scaleInEditor": 5.5
         },
         "dev-tileset.tsx": {
             "scaleInDock": 1,
@@ -20,16 +20,16 @@
             "scale": 1.67734375,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 259.33861201676757,
-                "y": 253.3768048439683
+                "x": 255.46343735444808,
+                "y": 255.4634373544481
             }
         },
         "level1cave.tmx": {
-            "scale": 3.352941176470588,
-            "selectedLayer": 3,
+            "scale": 1.5,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 117.50877192982455,
-                "y": 127.94736842105264
+                "x": 259.66666666666663,
+                "y": 251.3333333333333
             }
         }
     },
@@ -47,8 +47,8 @@
     "project": "Cabbit.tiled-project",
     "recentFiles": [
         "cave.tsx",
-        "level1cave.tmx",
         "level1.tmx",
+        "level1cave.tmx",
         "dev-tileset.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="3">
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="5" nextobjectid="3">
  <tileset firstgid="1" source="cave.tsx"/>
  <tileset firstgid="461" source="dev-tileset.tsx"/>
- <layer id="1" name="Tile Layer 1" width="16" height="16">
+ <layer id="1" name="Tile Layer 1" width="32" height="32">
   <data encoding="base64" compression="zlib">
-   eJxbyMDAsHCI4/2MDAwHGIlXD1K7nxGVT6qd5OgZxcMTU5p+KE2/lGAA9PeifQ==
+   eJztlFEOgjAMhrv7nwI5g/KiwuvcGYCruAb/pJKpIPslEpp8ydKAH+1qCxEpFrA0lri34q+dSOOmO/XZ2uXzz3EXo3dy+Nfu/+7nsXV/Ks7xv3GJXN3un+LPvX/m+nPv33/qPyPW9mtfDpHyx95Xc4RvKeV5fnKH/u5RBsZepTL5huC3TpxT9bPuRus+yVAnzjZn62f4feQWCeZsc4HsT81cm8gx+4/ZsyCPe2D23xsfQB73wPK3D/wI5LtIT/Z3xmeB2+4Dll891QRyh+40+MMHGPsP+7+X97D2/zdxBzaNL7A=
   </data>
  </layer>
- <layer id="2" name="Tile Layer 2" width="16" height="16">
+ <layer id="2" name="Tile Layer 2" width="32" height="32">
   <data encoding="base64" compression="zlib">
-   eJy7wMDA8IRMfAGILwJxIyMET2VEsInB56H6pzKSh2H6yQXY9F+jUD+l9o/qH9UPAm+I1A/Kg3vIxCC9AL4eQec=
+   eJzt1sEJgDAMBdB2c3UGdRl1BuvFBdSbQ9jiQQ1S2iStCAl88JSHEL4apdSKjGHIZFPqM42+nkMyMvmNxoXLx04Kf/7Yj5lF0W+U4hcMN0rxa4Ybpfghk9LvbHqQIaP/thvuE/+f/p7Jd4E3HBq4x/XdBnxfR1K7G76367tKP31fR3J8P+6+67sW+L6O5PZjR3zxxRdffPE5gvl/OAClJwxz
   </data>
  </layer>
  <objectgroup id="3" name="Object Layer 1">
   <object id="1" name="chest" x="64" y="64" width="16" height="16"/>
   <object id="2" name="exit" x="96" y="224" width="16" height="16"/>
  </objectgroup>
- <layer id="4" name="collision" width="16" height="16">
+ <layer id="4" name="collision" width="32" height="32">
   <data encoding="base64" compression="zlib">
-   eJw7z8jAcH6YYGIBPr3EmkOOvbjMGNU/tPWTYwa10y+5GABEplIR
+   eJzt09EJADAIQ8F2/+FcqStE6SMtRPDXi6C116r0E60Waas5HHtTGeJz5dg//l/+JIM6i/iDzpxbPzrdI77Xn9wPaZMZuhU/fvz4jgyErWYg7W4fyiUv7w==
   </data>
  </layer>
 </map>
