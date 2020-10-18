@@ -26,6 +26,9 @@ export class Actor extends cc.Component {
   @property(Input)
   public input: Input = null;
 
+  @property(cc.Prefab)
+  public projectile: cc.Prefab = null;
+
   private animation: cc.Animation;
 
   private direction: Direction = Direction.DOWN;
@@ -33,6 +36,8 @@ export class Actor extends cc.Component {
   private walking: boolean = false;
 
   private isColliding: boolean = false;
+
+  private projectileInstance: cc.Node;
 
   //#region LIFE-CYCLE CALLBACKS:
 
@@ -65,6 +70,9 @@ export class Actor extends cc.Component {
       if (input & InputButton.RIGHT) {
         currentPos.x += moveAmount;
         this.direction = Direction.RIGHT;
+      }
+      if ((input & InputButton.ACTION) && !this.projectileInstance) {
+        // this.magic();
       }
       this.updatePosition(currentPos);
       this.walking = true;
@@ -158,6 +166,11 @@ export class Actor extends cc.Component {
     if (!this.animation.currentClip || this.animation.currentClip.name !== clip) {
       this.animation.play(clip);
     }
+  }
+
+  private magic(): void {
+    this.projectileInstance = cc.instantiate(this.projectile);
+    this.node.addChild(this.projectileInstance);
   }
 
 }

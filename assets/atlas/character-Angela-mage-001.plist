@@ -138,17 +138,17 @@
       </dict>
     </dict>
     <key>metadata</key>
-      <dict>
-        <key>format</key>
-        <integer>3</integer>
-        <key>pixelFormat</key>
-        <string>RGBA8888</string>
-        <key>realTextureFileName</key>
-        <string>..\cabbit-0.5\sprite\character\PNG\24x32\Angela-mage-001.png</string>
-        <key>size</key>
-        <string>{72,128}</string>
-        <key>textureFileName</key>
-        <string>..\cabbit-0.5\sprite\character\PNG\24x32\Angela-mage-001.png</string>
+    <dict>
+      <key>format</key>
+      <integer>3</integer>
+      <key>pixelFormat</key>
+      <string>RGBA8888</string>
+      <key>realTextureFileName</key>
+      <string>..\cabbit-0.5\sprite\character\PNG\24x32\Angela-mage-001.png</string>
+      <key>size</key>
+      <string>{72,128}</string>
+      <key>textureFileName</key>
+      <string>..\cabbit-0.5\sprite\character\PNG\24x32\Angela-mage-001.png</string>
     </dict>
   </dict>
 </plist>

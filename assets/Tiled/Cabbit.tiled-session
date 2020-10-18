@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "level1cave.tmx",
+    "activeFile": "",
     "expandedProjectPaths": [
         "."
     ],
@@ -20,7 +20,7 @@
             "scale": 1.67734375,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 255.46343735444808,
+                "x": 255.76152771308804,
                 "y": 255.4634373544481
             }
         },
@@ -28,7 +28,7 @@
             "scale": 1.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 259.66666666666663,
+                "x": 259.99999999999994,
                 "y": 251.3333333333333
             }
         }
@@ -40,9 +40,6 @@
     "map.tileWidth": 16,
     "map.width": 16,
     "openFiles": [
-        "cave.tsx",
-        "level1.tmx",
-        "level1cave.tmx"
     ],
     "project": "Cabbit.tiled-project",
     "recentFiles": [
